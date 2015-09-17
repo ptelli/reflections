@@ -14,4 +14,8 @@ What value do you think it offers?
 
 Lets you choose what files do you want to commit instead of having to commit all.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Seeing what's in the staging area and adding only what you want to commit will let you commit only those files that compound one logical change.
+
 
